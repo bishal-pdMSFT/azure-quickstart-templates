@@ -22,6 +22,9 @@
     },
     "sshRSAPublicKey": {
       "value": "GEN-SSH-PUB-KEYY"
+    },
+    "extraParam": {
+      "value": "extraParamextraParamValue"
     }
   }
 }
