@@ -167,7 +167,7 @@
     ],
     "outputs": {
         "vm-fqdn": {
-            "type": "string",
+            "type": "object",
             "value": "[reference(variables('publicIPAddressName'), '2016-03-30')]"
         }
     }
